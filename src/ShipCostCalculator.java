@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
-
+public class ShipCostCalculator {
     // Declaring constants
     private static final double FREE_SHIPPING = 100.00;
     private static final double SHIPPING_RATE = 0.02;
